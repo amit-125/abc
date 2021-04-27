@@ -1,1 +1,1 @@
-# ChatApplication using GUI swing in java and socket programming to enable communication between client and server
+#It is a ChatApplication using GUI swing in java and socket programming to estlabish communication between client and server
